@@ -26,7 +26,18 @@ h2 {
 
 hr {
   border: 1px solid black;
-  margin: 5px 0;
+  margin: 20px 0;
   text-shadow: 5px ;
 }
 
+h3 {
+
+   -webkit-text-stroke: 0.1px blue;
+
+}
+
+* {
+
+text-align: center;
+
+}
